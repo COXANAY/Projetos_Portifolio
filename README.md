@@ -1,4 +1,4 @@
-# # Streaming Platform Layout
+# Streaming Platform Layout
 Bem-vindo ao meu projeto de Streaming Platform Layout, onde o objetivo é criar uma simulação de uma plataforma de streaming usando HTML, CSS e JavaScript. O foco deste projeto é desenvolver um layout responsivo e dinâmico, imitando plataformas de streaming populares que são usadas para consumir séries, filmes, documentários, e outros conteúdos.
 
 Este projeto busca:
