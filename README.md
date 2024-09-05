@@ -7,4 +7,4 @@ Praticar o desenvolvimento front-end com tecnologias fundamentais.
 Criar uma interface visual moderna e familiar para quem utiliza plataformas de streaming.
 Simular funcionalidades comuns como listas de conteúdos, carrosséis e navegação fluida.
 
-Fique a vontade para explorar meu repositório, seja bem-vindo <3 :))
+Fique a vontade para explorar meu repositório, seja bem-vindo <3 :)
